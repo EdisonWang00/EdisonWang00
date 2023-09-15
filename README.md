@@ -1,16 +1,20 @@
-### Hi there 👋
+### 👋 Hi there
 
-<!--
-**EdisonWang00/EdisonWang00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Edison, a **data analyst** based in San jose CA. I am passionate about using **Data Science** and **Python** to solve problem
 
-Here are some ideas to get you started:
+#### 👉 Let's connect!
+Add me on [Linkedin] https://www.linkedin.com/in/wang-edison/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🖥️ I've shared my insights about
+
+####  Forecasting [📈]
+
+- store-sales-prediction-project : https://github.com/EdisonWang00/store-sales-prediction-project
+- power consumption forecasting : https://github.com/EdisonWang00/active-power-forecasting
+####  Real Estate [📊]
+boston-housing-price-prediction: https://github.com/EdisonWang00/boston-housing-price-prediction
+
+####  Supply Chain [📈]
+####  Sport [⏱️]
+#### Stock market [📊]
