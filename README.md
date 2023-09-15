@@ -18,3 +18,4 @@ boston-housing-price-prediction: https://github.com/EdisonWang00/boston-housing-
 ####  Supply Chain [📈]
 ####  Sport [⏱️]
 #### Stock market [📊]
+Stock-Price-Prediction: https://github.com/EdisonWang00/Stock-Price-Prediction
