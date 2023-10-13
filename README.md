@@ -16,6 +16,7 @@ Add me on [Linkedin] https://www.linkedin.com/in/wang-edison/
 boston-housing-price-prediction: https://github.com/EdisonWang00/boston-housing-price-prediction
 
 ####  Supply Chain [📈]
+Production Planning: https://github.com/EdisonWang00/production-planning
 ####  Sport [⏱️]
 #### Stock market [📊]
 Stock-Price-Prediction: https://github.com/EdisonWang00/Stock-Price-Prediction
