@@ -19,5 +19,3 @@ boston-housing-price-prediction: https://github.com/EdisonWang00/boston-housing-
 Production Planning: https://github.com/EdisonWang00/production-planning
 ####  AB testing [⏱️]
 AB testing: https://github.com/EdisonWang00/AB-testing
-#### Stock market [📊]
-Stock-Price-Prediction: https://github.com/EdisonWang00/Stock-Price-Prediction
