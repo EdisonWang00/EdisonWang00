@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-I’m Edison, an analytics professional based in San Jose, CA, with a background in operations strategy, inventory optimization, and demand forecasting. I’m passionate about turning data into actionable insights that improve efficiency and drive smarter business decision
+I’m Edison, an analytics professional with 4 years of experience in operations strategy, inventory optimization, and demand forecasting. I’m passionate about transforming data into actionable insights that enhance efficiency and enable smarter business decisions.
 
 #### 👉 Let's connect!
 Add me on [Linkedin] https://www.linkedin.com/in/wang-edison/
