@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-My name is Edison, a **data analyst** based in San jose CA. I am passionate about using **Data Science** and **Python** to solve problem
+Hi, I’m Edison, a data analyst from San Jose, CA, with expertise in demand forecasting and inventory optimization. I enjoy using Python and data science to uncover insights that drive smarter, more efficient operations
 
 #### 👉 Let's connect!
 Add me on [Linkedin] https://www.linkedin.com/in/wang-edison/
