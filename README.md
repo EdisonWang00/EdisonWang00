@@ -9,7 +9,7 @@ Explore my latest analytics and AI insights on Medium : https://medium.com/@wang
 
 ### 🖥️ I've shared my insights about
 
-####  Data-Driven trategy & Insights [🚴‍♂️]
+####  Data-Driven Strategy & Insights [🍕]
 
 - Online Delivery Performance Insights  : https://github.com/EdisonWang00/Online-Delivery-Strategic-Analysis-
 
