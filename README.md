@@ -4,6 +4,7 @@ I’m Edison, an analytics professional with 4 years of experience in operations
 
 #### 👉 Let's connect!
 Add me on [Linkedin] https://www.linkedin.com/in/wang-edison/
+<br><br>
 Explore my latest analytics and AI insights on Medium : https://medium.com/@wangedison1234
 
 ### 🖥️ I've shared my insights about
