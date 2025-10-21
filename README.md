@@ -8,6 +8,10 @@ Add me on [Linkedin] https://www.linkedin.com/in/wang-edison/
 
 ### 🖥️ I've shared my insights about
 
+####  Data-Driven trategy & Insights [🚴‍♂️]
+
+- Online Delivery Performance Insights  : https://github.com/EdisonWang00/Online-Delivery-Strategic-Analysis-
+- 
 ####  Forecasting [📈]
 
 - store-sales-prediction-project : https://github.com/EdisonWang00/store-sales-prediction-project
